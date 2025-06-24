@@ -1,0 +1,10 @@
+---
+layout: research
+title: "research"
+---
+
+Driven by a commitment to alleviate the trial-and-error approach in mental health treatment, my current work at the Center for Precision Psychiatry at Massachusetts General Hospital harnesses whole-genome regression models to elucidate the pathophysiology of major depressive disorder (MDD). However, my capstone focuses on pioneering the use of dynamic causal modeling to predict the onset of depressive biotypes in individuals prior to any clinical manifestation of the disorder. This innovative approach utilizes resting-state functional MRI (rs-fMRI) data to forecast neuronal activity patterns that may indicate susceptibility to depression.
+
+The analysis of neuroimaging data, particularly through generative embedding and machine learning classifiers, has shown promising results in predicting future depressive episodes from large datasets like the UK Biobank. The integration of dynamic causal modeling with machine learning, using techniques such as support vector machines with sigmoid kernels, has enabled us to create predictive models that can distinguish individuals at risk with a degree of accuracy previously unattainable with traditional analysis methods. The machine learning classifiers are robustly validated through nested cross-validation, ensuring the model's generalizability and reliability.
+
+This research not only pushes the boundaries of precision psychiatry but also offers a potential revolution in the early detection and prevention of depressive disorders. By identifying at-risk individuals before the onset of symptoms, we can target interventions more effectively, profoundly impacting patient care and mental health management. This approach exemplifies the novel application of AI in medicine, leveraging computational techniques to tackle some of the most complex challenges in mental health.

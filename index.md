@@ -3,6 +3,4 @@ layout: home
 title: "Home"
 ---
 
-This theme allows an academic person to showcase their research interests, publications, research group, curriculum vitae, any courses that they may be teaching, or anything else they may want to put out into the world.
-
-Academics can use this home page to describe their research interests, display their latest publications, or provide an introduction to their research group.
+I’m a data scientist and strategy consultant who pioneers novel, data-driven solutions addressing the caveats of healthcare and beyond. Currently, I’m a Master’s of Biomedical Informatics student at Harvard Medical School working in the realm of precision psychiatry. Please look around to learn about my work!

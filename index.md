@@ -3,4 +3,4 @@ layout: home
 title: "Home"
 ---
 
-I’m a data scientist and strategy consultant who pioneers novel, data-driven solutions addressing the caveats of healthcare and beyond. Currently, I’m a Master’s of Biomedical Informatics student at Harvard Medical School working in the realm of precision psychiatry. Please look around to learn about my work!
+I’m a researcher at heart who designs, builds, and guides AI solutions that address critical blind spots driving inequities and social disparities, mainly in the healthcare landscape. I just finished my Master’s in Biomedical Informatics at Harvard Medical School and am now pioneering new ways to improve diversity and efficiency in the process of clinical trial recruitment. Please look around to learn about me and my work!

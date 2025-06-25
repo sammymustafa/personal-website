@@ -2,6 +2,7 @@ menu:
 - {name: 'about', url: '/about'}
 - {name: 'research', url: '/research'}
 - {name: 'cv', url: '/cv'}
+- {name: 'photos', url: '/photos'}
 - {name: 'contact', url: '/contact'}
 
 social:

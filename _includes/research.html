@@ -1,23 +1,20 @@
 <div class="row g-5 mb-5">
-  <div>
-    <h3 class="fw-bold">Research</h3>
-    <br>
-    <p>Welcome to my portfolio of research projects, showcasing a dynamic blend of scientific inquiry and data-driven innovation! My journey began with a deep dive into molecular research, laying a strong foundation in analytical thinking and problem-solving. As my career progressed, I pivoted towards leveraging data analytics in healthcare, focusing on evidence-based solutions to complex challenges. This transition highlights my adaptability to apply scientific principles in diverse contexts.</p>
-    <p>My current projects underscore my proficiency in bioinformatics and data science, demonstrating skills in data manipulation, statistical analysis, machine learning, and AI-driven strategies. These projects reflect my commitment to transforming vast datasets into meaningful insights, directly applicable to healthcare and beyond.</p>
-    <p>Please click on the project titles for the write-ups! For a detailed display of my technical skills, including coding proficiency in various languages and tools integral to data science and AI, please visit my GitHub page linked below. Each repository displays my ability to integrate multidisciplinary knowledge into practical, impactful applications.</p>
-    <br>
-    <br>
-    <h5 class="fw-bold">Current Pursuit:</h5>
-    {{ content }}
-    <br>
-    <br>
+  <h3 class="fw-bold">Research</h3>
+  <br>
+
+  <div class="row">
     {% for item in site.data.research.featured %}
-      <h5 class="fw-bold"><a href="{{ item.url }}">{{ item.name }}</a></h5>
-      <p>{{ item.desc1 }}</p>
-      <p>{{ item.desc2 }}</p>
-      <p>{{ item.desc3 }}</p>
-      <p>{{ item.desc4 }}</p>
-      <br>
-      <br>
+    <div class="col-md-12 mb-4" style="border: 1px solid #ddd; padding: 15px;">
+      <a href="{{ item.url }}" style="text-decoration: none; color: inherit;">
+        <div style="display: flex; align-items: center; justify-content: space-between;">
+          <div>
+            <h5 class="fw-bold">{{ item.name }}</h5>
+            <p>{{ item.short_desc }}</p>
+          </div>
+          <img src="{{ item.image }}" alt="{{ item.name }}" style="width: 150px; height: auto; object-fit: cover;">
+        </div>
+      </a>
+    </div>
     {% endfor %}
-    <br>
+  </div>
+</div>

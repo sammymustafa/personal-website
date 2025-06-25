@@ -24,7 +24,7 @@ featured:
     image: "/research/psych.jpeg"
     url: "/research/psych"
 
-  - name: "Flow Matching for Molecular Docking: The Role of Priors with Varying Information"
+  - name: "Flow Matching for Molecular Docking: Evaluating Priors with Local and Long-Range Structural Information"
     where: "CSAIL, MIT"
     short_desc: "Evaluating how structural priors influence flow matching molecular docking performance to guide generative model improvements."
     image: "/research/mlcb.jpeg"

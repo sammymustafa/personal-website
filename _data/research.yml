@@ -1,15 +1,18 @@
 featured:
   - name: "Enhancing Molecular Docking"
+    where: "Harvard Medical School"
     short_desc: "Optimizing generative models for ligand binding through machine learning."
     image: "/research/mlcb.jpeg"
     url: "/research/mlcb"
 
   - name: "PTENP1: Pseudogene in Glioblastomas"
+    where: "Bergen County Academies"
     short_desc: "A pioneering approach leveraging pseudogene expression in cancer therapy."
     image: "/research/ptenp1.jpeg"
     url: "/research/ptenp1"
 
   - name: "SERBP1: RNA-Binding Protein Research"
+    where: "Feinberg School of Medicine"
     short_desc: "Targeting cardiac fibrosis through novel RNA-protein mechanisms."
     image: "/research/serbp1.jpeg"
     url: "/research/serbp1"

@@ -1,15 +1,15 @@
 featured:
   - name: "Enhancing Molecular Docking"
     short_desc: "Optimizing generative models for ligand binding through machine learning."
-    image: "{{ site.github.url }}/research/mlcb.jpeg"
+    image: "/research/mlcb.jpeg"
     url: "/research/mlcb"
 
   - name: "PTENP1: Pseudogene in Glioblastomas"
     short_desc: "A pioneering approach leveraging pseudogene expression in cancer therapy."
-    image: "{{ site.github.url }}/research/ptenp1.jpeg"
+    image: "/research/ptenp1.jpeg"
     url: "/research/ptenp1"
 
   - name: "SERBP1: RNA-Binding Protein Research"
     short_desc: "Targeting cardiac fibrosis through novel RNA-protein mechanisms."
-    image: "{{ site.github.url }}/research/serbp1.jpeg"
+    image: "/research/serbp1.jpeg"
     url: "/research/serbp1"

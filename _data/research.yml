@@ -1,16 +1,16 @@
 featured:
 
-  - name: "A Medico-Legal Approach to Subjective Pain Testimony in Disability Adjudication"
-    where: "Health Law and Policy Clinic, Harvard Law School"
-    short_desc: "Uncovering biases in how administrative law judges (ALJs) assess pain testimony and advancing solutions for fairer disability rulings."
-    image: "/research/hls.jpeg"
-    url: "/research/hls"
-
   - name: "Evaluating Pain Assessment and Management Disparities in Acute Pancreatitis"
     where: "Laboratory of Computational Physiology, MIT"
     short_desc: "Analyzing disparities in pain documentation and opioid prescribing for acute pancreatitis using MIMIC-IV ED data."
     image: "/research/documen.jpeg"
     url: "/research/documen"
+
+  - name: "A Medico-Legal Approach to Subjective Pain Testimony in Disability Adjudication"
+    where: "Health Law and Policy Clinic, Harvard Law School"
+    short_desc: "Uncovering biases in how administrative law judges (ALJs) assess pain testimony and advancing solutions for fairer disability rulings."
+    image: "/research/hls.jpeg"
+    url: "/research/hls"
 
   - name: "Integrating Anticipatory and Physiological Factors to Predict Injection Pain Intensity"
     where: "Affective Computing Group, MIT Media Lab"

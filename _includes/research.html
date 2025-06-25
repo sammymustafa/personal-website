@@ -4,14 +4,14 @@
 
   <div class="row">
     {% for item in site.data.research.featured %}
-    <div class="col-md-12 mb-4" style="border: 1px solid #ddd; padding: 15px;">
+    <div class="col-md-10 mb-4" style="border: 1px solid #ddd; padding: 15px; border-radius: 10px; margin: 0 auto;">
       <a href="{{ item.url }}" style="text-decoration: none; color: inherit;">
         <div style="display: flex; align-items: center; justify-content: space-between;">
           <div>
             <h5 class="fw-bold">{{ item.name }}</h5>
             <p>{{ item.short_desc }}</p>
           </div>
-          <img src="{{ item.image }}" alt="{{ item.name }}" style="width: 150px; height: auto; object-fit: cover;">
+          <img src="{{ item.image }}" alt="{{ item.name }}" style="width: 150px; height: auto; object-fit: cover; border-radius: 5px;">
         </div>
       </a>
     </div>

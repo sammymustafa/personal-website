@@ -1,12 +1,19 @@
-<h2 class="fw-bold pb-3 mb-5" style="margin-bottom: 10px;">Flow Matching for Molecular Docking: Evaluating Priors with Local and Long-Range Structural Information</h2>
+<h2 class="fw-bold" style="margin-bottom: 10px;">Flow Matching for Molecular Docking: Evaluating Priors with Local and Long-Range Structural Information</h2>
+<h3 style="font-size: 1.1rem; font-style: italic; font-weight: normal; margin-bottom: 30px;">
+  CSAIL, MIT — Cambridge, MA
+</h3>
 
 <p>
+At CSAIL, I worked on improving how ML models predict molecular docking poses for drug discovery. Traditional docking tools lean heavily on simplified physics, but new generative models like DiffDock and HarmonicFlow use data-driven approaches to predict how molecules bind to proteins. My focus was on understanding why these models, despite generating physically plausible structures, often produced binding poses that were overly compact and lacked accurate long-range atomic information. We found that the newest model, HarmonicFlow, produced predictions that consistently underestimated the radius of gyration, meaning the predicted molecules were more folded-in compared to real structures, which ultimately impacted docking accuracy.
 </p>
 
 <p>
+Together, we designed new structural priors for the model, one incorporating full 3D conformer data from RDKit and another blending conformer data with controlled noise. The goal was to provide the model with richer long-range information about the molecule's structure, while testing whether more chemically-informed starting points improved performance. Even when given better structural information upfront, the model’s limitations persisted, suggesting the neural network itself needed to integrate long-range patterns more effectively.
 </p>
 
-<p>
-</p>
-
-<img src="{{ site.github.url }}/research/mlcb.jpeg" alt="MLCB Image" style="max-width: 500px; margin-top: 20px;">
+<div class="row g-5 mb-5" style="margin-top: 30px; margin-bottom: 50px;">
+  <div>
+    <h5 class="fw-bold pb-3 mb-3">View Full Paper:</h5>
+    <embed src="/research/mlcb.pdf" frameborder="0" width="100%" height="400px">
+  </div>
+</div>

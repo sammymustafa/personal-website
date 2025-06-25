@@ -1,18 +1,55 @@
 featured:
+
+  - name: "A Medico-Legal Approach to Subjective Pain Testimony in Disability Adjudication"
+    where: "Health Law and Policy Clinic, Harvard Law School"
+    short_desc: ""
+    image: "/research/hls.jpeg"
+    url: "/research/hls"
+
+  - name: "Evaluating Pain Assessment and Management Disparities in Acute Pancreatitis"
+    where: "MIT Laboratory of Computational Physiology"
+    short_desc: ""
+    image: "/research/documen.jpeg"
+    url: "/research/documen"
+
+  - name: "Integrating Anticipatory and Physiological Factors to Predict Injection Pain Intensity"
+    where: "Affective Computing Group, MIT Media Lab"
+    short_desc: ""
+    image: "/research/media.jpeg"
+    url: "/research/media"
+  
+  - name: "Metabolic Biomarkers of MDD Phenotype Heterogeneity"
+    where: "Center for Precision Psychiatry, Massachusetts General Hospital"
+    short_desc: ""
+    image: "/research/psych.jpeg"
+    url: "/research/psych"
+
   - name: "Enhancing Molecular Docking"
     where: "Harvard Medical School"
     short_desc: "Optimizing generative models for ligand binding through machine learning."
     image: "/research/mlcb.jpeg"
     url: "/research/mlcb"
 
-  - name: "PTENP1: Pseudogene in Glioblastomas"
-    where: "Bergen County Academies"
-    short_desc: "A pioneering approach leveraging pseudogene expression in cancer therapy."
-    image: "/research/ptenp1.jpeg"
-    url: "/research/ptenp1"
-
-  - name: "SERBP1: RNA-Binding Protein Research"
+  - name: "SERBP1 RNA-Binding Protein"
     where: "Feinberg School of Medicine"
     short_desc: "Targeting cardiac fibrosis through novel RNA-protein mechanisms."
     image: "/research/serbp1.jpeg"
     url: "/research/serbp1"
+
+  - name: "Language of Bargaining"
+    where: "Behavioral Research Lab, Yale University"
+    short_desc: ""
+    image: "/research/nlp.jpeg"
+    url: "/research/nlp"
+
+  - name: "Modeling cAMP-PDE Signaling in AF Risk Variants"
+    where: "Computational Biology and Complex Systems Lab, Polytechnic University of Catalonia"
+    short_desc: ""
+    image: "/research/upc.jpeg"
+    url: "/research/upc"
+
+  - name: "PTENP1 Pseudogene in Glioblastomas"
+    where: "Bergen County Academies"
+    short_desc: "A pioneering approach leveraging pseudogene expression in cancer therapy."
+    image: "/research/ptenp1.jpeg"
+    url: "/research/ptenp1"

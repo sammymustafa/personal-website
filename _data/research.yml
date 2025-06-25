@@ -43,7 +43,7 @@ featured:
     url: "/research/nlp"
 
   - name: "Mathematical Modeling of cAMP-PDE Signaling in Atrial Fibrillation Risk Variants"
-    where: "Computational Biology and Complex Systems Lab, Polytechnic University of Catalonia"
+    where: "Computational Biology and Complex Systems Lab, Polytechnic University of Catalonia (UPC)"
     short_desc: "Modeling calcium dysregulation in atrial fibrillation by building differential equation systems of the cAMP-PDE signaling pathway."
     image: "/research/upc.jpeg"
     url: "/research/upc"

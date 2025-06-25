@@ -1,17 +1,19 @@
 <div class="row g-5 mb-5">
-  <h3 class="fw-bold">Research</h3>
-  <br>
+  <h3 class="fw-bold" style="margin-bottom: 30px;">Research</h3>
 
   <div class="row">
     {% for item in site.data.research.featured %}
-    <div class="col-md-10 mb-4" style="border: 1px solid #ddd; padding: 15px; border-radius: 10px; margin: 0 auto;">
+    <div class="col-md-10 mb-5" style="border: 1px solid #ddd; padding: 20px; border-radius: 10px; margin: 0 auto;">
       <a href="{{ item.url }}" style="text-decoration: none; color: inherit;">
         <div style="display: flex; align-items: center; justify-content: space-between;">
-          <div>
+          
+          <div style="flex: 1; padding-right: 20px;">
             <h5 class="fw-bold">{{ item.name }}</h5>
             <p>{{ item.short_desc }}</p>
           </div>
-          <img src="{{ item.image }}" alt="{{ item.name }}" style="width: 150px; height: auto; object-fit: cover; border-radius: 5px;">
+
+          <img src="{{ item.image }}" alt="{{ item.name }}" style="width: 150px; height: 100px; object-fit: cover; border-radius: 5px;">
+        
         </div>
       </a>
     </div>

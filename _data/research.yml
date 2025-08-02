@@ -24,6 +24,12 @@ featured:
     image: "/research/psych.jpeg"
     url: "/research/psych"
 
+  - name: "Diagnosing Autism Spectrum Disorder from 3D MRI Images in Pediatric Cases"
+    where: "Yu Lab, Harvard Medical School"
+    short_desc: "Classifying pediatric autism using DL and ML models trained on domain-specific MRI data and preprocessing techniques."
+    image: "/research/mri.jpeg"
+    url: "/research/mri"
+
   - name: "Enhancing Molecular Docking: Studying and Optimizing Generative Model Priors"
     where: "CSAIL, MIT"
     short_desc: "Evaluating how structural priors influence flow matching molecular docking performance to guide generative model improvements."

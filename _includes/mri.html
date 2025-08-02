@@ -1,0 +1,19 @@
+<h2 class="fw-bold" style="margin-bottom: 10px;">Diagnosing Autism Spectrum Disorder from 3D MRI Images in Pediatric Cases</h2>
+<h3 style="font-size: 1.1rem; font-style: italic; font-weight: normal; margin-bottom: 30px;">
+  Yu Lab, Harvard Medical School — Boston, MA
+</h3>
+
+<p>
+Exploring whether 3D MRI data can support earlier, more objective diagnosis of Autism Spectrum Disorder (ASD), we applied deep learning and machine learning models to pediatric neuroimaging data from the ABIDE-I dataset. We preprocessed over 600 pediatric scans through the CPAC pipeline and developed a custom transformation workflow to standardize brain orientation across axial, coronal, and sagittal views. We tested a wide range of models (2D CNNs, 3D CNNs, autoencoders, and traditional classifiers like random forest and logistic regression) to evaluate their ability to distinguish ASD from neurotypical controls. Surprisingly, the best-performing model was a random forest classifier, achieving a modest 64% accuracy, followed by a 2D CNN with Gaussian noise augmentation.
+</p>
+
+<p>
+This experimental project highlights the challenges of applying deep learning to complex neurodevelopmental conditions. Despite using volumetric brain imaging data and data augmentation techniques, our models struggled to generalize, likely due to limited sample size, site variability, and especially the heterogeneity of ASD presentation across pediatric populations. Notably, transfer learning approaches performed worse than custom models, suggesting that domain-specific architecture and preprocessing may be more valuable than repurposed image models. These limitations emphasize the need for diverse datasets, longitudinal stratification by age, and integrated clinical features to improve the reliability of AI-assisted ASD diagnostics.
+</p>
+
+<div class="row g-5 mb-5" style="margin-top: 30px; margin-bottom: 50px;">
+  <div>
+    <h5 class="fw-bold pb-3 mb-3">View Full Paper:</h5>
+    <embed src="/research/mri.pdf" frameborder="0" width="100%" height="400px">
+  </div>
+</div>

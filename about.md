@@ -11,4 +11,4 @@ I recently completed my Master’s in Biomedical Informatics from Harvard Medica
 
 Beyond my own projects, I’ve also advised initiatives using AI to tackle complex problems, from helping secure venture capital for a platform empowering breast cancer patients to make personalized treatment decisions, to developing pricing strategies for an AIoT startup optimizing industrial fluid dynamics for sustainability. While I’ve enjoyed leading my own work, I’ve found that collaborating and supporting others through the potential of AI is often the most powerful way to drive impact.
 
-Outside of work, you can find me biking along the riverside, photographing my friends, bouldering to some neo-soul, or propagating and gifting my pothos. Please feel free to email me any good overnight oats recipes you know of. 
+Outside of work, you can find me biking along the water, photographing my friends, bouldering to some neo-soul music, or propagating my pothos babies. Please feel free to email me any good overnight oats recipes you know of.

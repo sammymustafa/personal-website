@@ -30,6 +30,12 @@ featured:
     image: "/research/mri.jpeg"
     url: "/research/mri"
 
+  - name: "Effect of Immune Checkpoint Blockade on Adaptive Immunity in Renal Cell Carcinoma"
+    where: "Department of Biomedical Informatics, Harvard Medical School"
+    short_desc: "Profiling adaptive immune responses to immune checkpoint blockade in RCC using single-cell RNA sequencing of tumor-infiltrating lymphoid cells."
+    image: "/research/scrna.jpeg"
+    url: "/research/scrna"
+
   - name: "Enhancing Molecular Docking: Studying and Optimizing Generative Model Priors"
     where: "CSAIL, MIT"
     short_desc: "Evaluating how structural priors influence flow matching molecular docking performance to guide generative model improvements."

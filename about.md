@@ -3,7 +3,7 @@ layout: about
 title: "about"
 ---
 
-Hi!!! I’m Sammy, a 23-year-old currently based in Brooklyn, working at the intersection of research, computational tools, and social impact. After years in academic research, I stepped back to apply my technical and creative skills toward using AI to better understand and address the often overlooked drivers of inequities, primarily within the healthcare and research setting. 
+Hi!!! I’m Sammy, a 23-year-old currently based in NYC, working at the intersection of research, computational tools, and social impact. After years in academic research, I stepped back to apply my technical and creative skills toward using AI to better understand and address the often overlooked drivers of inequities, primarily within the healthcare and research setting. 
 
 Right now, I’m building my startup, [Bond Health](https://bondtrials.com). Alongside my co-founders, we’re building proprietary LLMs and ML models to revolutionize how academic institutions and pharmaceutical companies recruit patients. This idea came from my personal frustration with how little of my research generalized to the populations that needed it most. There’s an abundance of data in medical records that can be used to personalize and fix the inefficient, expensive, and exclusive process of clinical trial recruitment. With $150K+ in funding, we are currently running pilots to show that bringing trials to the patient is not only possible but can be done while navigating the legal, regulatory, and privacy challenges that have stalled this solution for years.
 

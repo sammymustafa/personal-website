@@ -3,8 +3,8 @@ featured:
   - name: "Evaluating Pain Assessment and Management Disparities in Acute Pancreatitis"
     where: "Laboratory of Computational Physiology, MIT"
     short_desc: "Analyzing disparities in pain documentation and opioid prescribing for acute pancreatitis using MIMIC-IV ED data."
-    image: "/research/heals.jpeg"
-    url: "/research/heals"
+    image: "/research/pain.jpeg"
+    url: "/research/pain"
 
   - name: "A Medico-Legal Approach to Subjective Pain Testimony in Disability Adjudication"
     where: "Harvard Law School"

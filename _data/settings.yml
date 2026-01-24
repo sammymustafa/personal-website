@@ -6,8 +6,8 @@ menu:
 - {name: 'contact', url: '/contact'}
 
 social:
+#- {icon: 'instagram', link: 'https://instagram.com/sammymustafa'}
 - {icon: 'github', link: 'https://github.com/sammymustafa'}
-- {icon: 'instagram', link: 'https://instagram.com/sammymustafa'}
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/sammus/'}
 
 contacts:

@@ -7,8 +7,10 @@ menu:
 
 social:
 #- {icon: 'instagram', link: 'https://instagram.com/sammymustafa'}
-- {icon: 'github', link: 'https://github.com/sammymustafa'}
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/sammus/'}
+- {icon: 'twitter', link: 'https://x.com/sammymustafa02'}
+- {icon: 'github', link: 'https://github.com/sammymustafa'}
+
 
 contacts:
 - {name: 'Sammy Mustafa', institution: 'Bond Health', phone: '(201) 957-4754', email: 'sammymustafa@gmail.com', image: 'assets/img/contact.jpeg'}

@@ -3,4 +3,4 @@ layout: home
 title: "Home"
 ---
 
-I’m a researcher developing AI systems that uncover and address the underlying drivers of healthcare inequity. I just finished my Master’s in Biomedical Informatics at Harvard Medical School and am currently building an LLM solution designed to make clinical trial patient recruitment more inclusive and efficient. Please look around to learn more about me and my work!
+I'm an incoming medical student at the Feinberg School of Medicine focused on the responsible development of clinical AI tools. Trained in bioinformatics, I've supported the translation of emerging health technologies across startups and federal policy. Previously at the National Academies, Harvard, and Northwestern. 

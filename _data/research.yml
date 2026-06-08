@@ -1,5 +1,11 @@
 featured:
 
+  - name: "Large Language Models in Informed Consent — Opportunities, Evidence, and Challenges"
+    where: "Multi-Regional Clinical Trial Center, Brigham & Women's Hospital"
+    short_desc: "Exploring how LLMs can make clinical trial consent clearer, more accessible, and easier for participants to understand."
+    image: "/research/mrct.jpeg"
+    url: "/research/mrct"
+
   - name: "Evaluating Pain Assessment and Management Disparities in Acute Pancreatitis"
     where: "Laboratory of Computational Physiology, MIT"
     short_desc: "Analyzing disparities in pain documentation and opioid prescribing for acute pancreatitis using MIMIC-IV ED data."
